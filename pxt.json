@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pxt-simplecal": "workspace:f7588ec4-4768-44ae-f892-389df9759ba6"
     },
     "files": [
         "README.md",
@@ -14,5 +15,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
